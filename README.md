@@ -26,9 +26,3 @@ I'm a computer engineering student, currently learning and improving 🚀
 </p>
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirreza-salahi&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
