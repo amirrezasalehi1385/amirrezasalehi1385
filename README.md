@@ -22,7 +22,7 @@ I'm a computer engineering student, currently learning and improving 🚀
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="VSCode"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Clion.svg" width="60" height="60" alt="CLion"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Clion.svg" width="60" height="60" alt="CLion"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="60" height="60" alt="CLion"/>
 </p>
 
 ---
