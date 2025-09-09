@@ -21,7 +21,7 @@ I'm a computer engineering student, currently learning and improving 🚀
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="VSCode"/>
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original-wordmark.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AClion.svg&psig=AOvVaw0MtwxdSisMvIuWaCFjMbvq&ust=1757492819734000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJiA8Iyhy48DFQAAAAAdAAAAABAE)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AClion.svg&psig=AOvVaw0MtwxdSisMvIuWaCFjMbvq&ust=1757492819734000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJiA8Iyhy48DFQAAAAAdAAAAABAE)" width="60" height="60" alt="CLion"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Clion.svg" width="60" height="60" alt="CLion"/>
 </p>
 
 ---
