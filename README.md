@@ -6,8 +6,6 @@
 
 💻 Interested in backend development, Java ecosystem, and system-level concepts  
 🚀 Currently improving skills in Docker and software architecture
-![Wave Animation](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif)
-
 
 ---
 
