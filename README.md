@@ -1,4 +1,5 @@
-# Hi there 👋 I'm Amirreza Salehi
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&color=1E90FF&vCenter=true&width=650&lines=Hi+there+👋+I'm+Amirreza+Salehi;Backend+%26+Systems+Enthusiast)
+
 
 🎓 Computer Engineering student at  
 **Amirkabir University of Technology (Tehran Polytechnic)**
